@@ -6,4 +6,4 @@ end
 
 meal_choice
 
-meal_choice
+meal_choice("pizza")
